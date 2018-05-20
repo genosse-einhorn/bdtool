@@ -1,0 +1,9 @@
+bdtool
+======
+
+Simple tool which drives libbluray. It can
+
+* list all playlists (titles) available on the bluray
+* stream a playlist in MPEG-TS format
+* generate (and execute) a ffmpeg command to rip a playlist into a mkv file
+
